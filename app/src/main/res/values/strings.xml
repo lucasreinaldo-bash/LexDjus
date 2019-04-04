@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LexDjus</string>
+    <string name="voltar">Voltar</string>
+    <string name="leiamais">Leia Mais</string>
+    <string name="proximo">Próximo</string>
+    <string name="admin_receiver_status" />
+    <string name="admin_receiver_status_enabled" />
+    <string name="admin_receiver_status_disable_warning" />
+    <string name="admin_receiver_status_disabled" />
+</resources>

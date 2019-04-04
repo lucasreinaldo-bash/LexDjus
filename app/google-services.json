@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "252221667289",
+    "firebase_url": "https://lexdjus.firebaseio.com",
+    "project_id": "lexdjus",
+    "storage_bucket": "lexdjus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252221667289:android:2fc21725dbd603e5",
+        "android_client_info": {
+          "package_name": "vostore.lexdjus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252221667289-liaam5a78pjd90680k46rq7vqc3g4jc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vostore.lexdjus",
+            "certificate_hash": "8e95dacf6c6fad9f88ef5f89c3d1663d0cc145b4"
+          }
+        },
+        {
+          "client_id": "252221667289-dqdfde73stedhlligd6tvsa6s6rt8tjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1gHfZ22jORnT_GDMtYD8341YH90tzINE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252221667289-dqdfde73stedhlligd6tvsa6s6rt8tjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
